@@ -35,6 +35,19 @@ var xx, yy, zz;
 //Tarea 01/agosto/2022
 //Escribir en una sola línea variables undefined de nuestro carrito de compras
 
+//TypeOf(); Nos indica el tipo de dato al que pertenece la variable
+
+var a = 2;
+//undefined
+typeof(a);
+//"number" 
+
+var b = "2";
+//undefined
+typeof(b);
+//"string" 
+
+
 
 
 
