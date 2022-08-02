@@ -1,32 +1,35 @@
 //  Bad practices
-var 1 = 1;
-var second = 1s;
+var uno = 1;
+var second = 1;
 
-// Why doesn't it work?
-var if_condition =  if;
+// Why doesn't it work? It doesnt work because IF is a condition by itself, doesnt need a var
+if{
+
+}
+
 
 
 // Should equal formula for wild wings
-var Buffalowings = wings + buffalo
+var buffaloWings = wings + buffalo;
 
 
 // Null variable
-var Null = Null
+var hola = Null;
 
 
 // All variables should equal 1
-var uno, 1, one, wan, uma, um;
+var uno,one,wan,uma,um;
 
 
 // It's broken
-console.log().1;
+console.log(); 
 
 
 // Console.log para mostrar [area] de un cuadrado
-console.log(ladoa x ladob);
+console.log(ladoA x ladoB);
 
 // Should equal 4
-var four = 2 + "2";
+var four = 2 + 2;
 
 // Doesn't work for math problems
-var pi = "3.141516";
+var pi = 3.141516;  
