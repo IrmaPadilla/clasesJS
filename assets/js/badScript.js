@@ -14,7 +14,7 @@ var buffaloWings = wings + buffalo;
 
 
 // Null variable
-var hola = Null;
+var hola = null;
 
 
 // All variables should equal 1
