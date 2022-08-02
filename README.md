@@ -1,2 +1,2 @@
 # clasesJS
-Tareas y apuntes tomadso durante las sesiones de JavaScript
+Tareas y apuntes tomados durante las sesiones de JavaScript
