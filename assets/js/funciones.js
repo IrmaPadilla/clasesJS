@@ -28,4 +28,7 @@ function globalScoope(){
 
 }
 
-globalScoope();
+globalScoope(); 
+
+
+
